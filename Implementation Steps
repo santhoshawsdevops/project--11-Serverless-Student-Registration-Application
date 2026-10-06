@@ -1,0 +1,27 @@
+### 🔄 Implementation Steps
+
+1️⃣ Create a DynamoDB table for student information.
+
+2️⃣ Create an IAM execution role for Lambda.
+
+3️⃣ Create a Python-based Lambda function.
+
+4️⃣ Implement student data processing and DynamoDB storage.
+
+5️⃣ Tested the Lambda function with test events.
+
+6️⃣ Create an API Gateway API and integrated it with Lambda.
+
+7️⃣ Create a `POST /students` API route.
+
+8️⃣ Teste the API using HTTP requests.
+
+9️⃣ Create simple student registration frontend using HTML and JavaScript.
+
+🔟 Hosted the frontend using Amazon S3.
+
+1️⃣1️⃣ Configured API integration and CORS.
+
+1️⃣2️⃣ Tested the complete application from browser → API Gateway → Lambda → DynamoDB.
+
+1️⃣3️⃣ Verified stored student records in DynamoDB.
