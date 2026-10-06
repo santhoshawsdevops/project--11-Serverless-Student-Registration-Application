@@ -37,7 +37,13 @@ DynamoDB
 6. Lambda stores the student information in DynamoDB.
 7. Lambda returns a success response.
 
+##Project description
 
+* Built a serverless student registration application using Amazon S3, API Gateway, AWS Lambda, and DynamoDB.
+* Developed a Python-based Lambda function to process student registration requests and store data in DynamoDB.
+* Hosted the frontend using Amazon S3 and integrated it with API Gateway through HTTP requests.
+* Configured IAM permissions for secure communication between AWS services and used CloudWatch for Lambda execution logs.
+* Tested and troubleshot the complete request flow from frontend → API Gateway → Lambda → DynamoDB
 
 Student registered successfully!
 
